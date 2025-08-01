@@ -28,9 +28,9 @@
 
 ## projects
 
-<p> slideshow <a href="https://codepen.io/Carlos-Lurqui/pen/empvzLB">#codepenchallenge</a> win.</p>
-<p> developer of <a href="https://viea.vercel.app/"> viea</a> and <code>VIA</code>.</p>
-
+<p> slideshow <a href="https://codepen.io/Carlos-Lurqui/pen/empvzLB"><code>#codepenchallenge</code></a> win.</p>
+<p> developer of <a href="https://viea.vercel.app/"><code>viea</code></a> and <code>VIA</code>.</p>
+<p> ceo of <a href="https://github.com/italic-project"><code>italic-project</code></a>.</p>
 ## certs
 
 | certificate                  | issued    | inst.               | code      | show                                 |
